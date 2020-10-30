@@ -2,7 +2,7 @@
 Implementations of various GAN architectures using PyTorch Lightning
 
 # Implementations
-## Generative Adversarial Networks
+### Generative Adversarial Networks
 
 Paper: https://arxiv.org/abs/1406.2661
 
