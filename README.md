@@ -11,3 +11,10 @@ Tutorial: https://towardsdatascience.com/fundamentals-of-generative-adversarial-
 Code: https://github.com/jamesloyys/PyTorch-Lightning-GAN/blob/main/GAN/gan.py
 
 
+### Conditional Generative Adversarial Networks(CGANS)
+
+Paper: https://arxiv.org/abs/1411.1784
+
+Code: https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py
+
+
