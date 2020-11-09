@@ -15,6 +15,6 @@ Code: https://github.com/jamesloyys/PyTorch-Lightning-GAN/blob/main/GAN/gan.py
 
 Paper: https://arxiv.org/abs/1411.1784
 
-Code: https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py
+Code: https://github.com/jamesloyys/PyTorch-Lightning-GAN/blob/main/CGAN/cgan.py
 
 
