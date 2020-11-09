@@ -158,5 +158,5 @@ if __name__ == "__main__":
 
   model = GAN()
 
-  trainer = pl.Trainer(max_epochs=10, gpus=1 if torch.cuda.is_available() else 0, progress_bar_refresh_rate=50)
+  trainer = pl.Trainer(max_epochs=100, gpus=1 if torch.cuda.is_available() else 0, progress_bar_refresh_rate=50)
   trainer.fit(model, mnist_dataloader)
